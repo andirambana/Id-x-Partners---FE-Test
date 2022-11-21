@@ -1,0 +1,377 @@
+#navbar {
+  font-family: poppins;
+  background: #fffcf2;
+}
+
+#navbar .navbar {
+  padding: 18px 0;
+}
+
+#navbar .navbar img {
+  width: 200px;
+}
+
+#navbar .navbar .nav-item .dropdown-menu .dropdown-item {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+
+#navbar .navbar .nav-item .dropdown-menu .dropdown-item:hover {
+  color: #ffe32f;
+}
+
+#navbar .navbar .nav-item .dropdown-menu .dropdown-item.active {
+  color: #ffffff;
+  background: #ffe32f;
+}
+
+#navbar .navbar .nav-item .dropdown-menu .dropdown-item:active {
+  color: #ffffff;
+  background: #ffe32f;
+}
+
+#navbar .navbar .nav-item .nav-link {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 16px;
+  line-height: 24px;
+  color: #000000;
+}
+
+#navbar .navbar .nav-item .nav-link:hover {
+  color: #ffe32f;
+}
+
+#introduction {
+  background: #fffcf2;
+  background: -webkit-gradient(linear, left top, left bottom, from(#fffcf2), to(white));
+  background: linear-gradient(180deg, #fffcf2 0%, white 100%);
+  font-family: poppins;
+  padding: 0;
+  margin: 0;
+  padding-top: 100px;
+}
+
+#introduction .intro-left {
+  height: 500px;
+}
+
+#introduction .intro-right h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+  color: #000000;
+}
+
+#introduction .intro-right h1 span {
+  color: #00798b;
+}
+
+#introduction .intro-right p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  color: #000000;
+}
+
+#introduction .intro-right button {
+  width: 200px;
+  height: 60px;
+  background: #ffcc48;
+  border-radius: 30px;
+  border: 0px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: white;
+}
+
+#what-we-do {
+  font-family: poppins;
+  margin-top: 35px;
+  padding-bottom: 60px;
+}
+
+#what-we-do h5 {
+  color: gray;
+  font-size: 16px;
+}
+
+#what-we-do h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+  color: #000000;
+}
+
+#what-we-do .card {
+  background: #ffffff;
+  border-radius: 8px;
+  border: none;
+  margin-bottom: 42px;
+  -webkit-transition: 0.3s ease-in-out;
+  transition: 0.3s ease-in-out;
+}
+
+#what-we-do .card img {
+  width: 75px;
+}
+
+#what-we-do .card .card-body span {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 21px;
+  color: #000000;
+}
+
+#what-we-do .card:hover {
+  -webkit-filter: drop-shadow(14px 16px 19px rgba(0, 0, 0, 0.25));
+          filter: drop-shadow(14px 16px 19px rgba(0, 0, 0, 0.25));
+  -webkit-transform: scale(1.05);
+          transform: scale(1.05);
+}
+
+#analyze-now {
+  background: #fffcf2;
+  background: -webkit-gradient(linear, left bottom, left top, from(#fffcf2), to(white));
+  background: linear-gradient(0deg, #fffcf2 0%, white 100%);
+  font-family: poppins;
+  padding: 0;
+  margin: 0;
+  padding-top: 100px;
+}
+
+#analyze-now .about-left h5 {
+  color: gray;
+  font-size: 16px;
+}
+
+#analyze-now .about-left h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+  color: #000000;
+}
+
+#analyze-now .about-left p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  color: #000000;
+}
+
+#analyze-now .about-left input {
+  width: 100px;
+  height: 50px;
+}
+
+#analyze-now .about-left button {
+  width: 100px;
+  height: 50px;
+  background: #ffcc48;
+  border-radius: 0, 0, 12, 12px;
+  border: 0px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: white;
+}
+
+#analyze-now .about-right {
+  height: 500px;
+}
+
+#lets-talk {
+  font-family: poppins;
+  padding: 0;
+  margin: 0;
+  padding-top: 100px;
+  margin-bottom: 100px;
+}
+
+#lets-talk .talk-left {
+  height: 500px;
+}
+
+#lets-talk .talk-left .banner-talk {
+  width: 1000px;
+}
+
+#lets-talk .talk-right h5 {
+  color: gray;
+  font-size: 16px;
+}
+
+#lets-talk .talk-right h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+  color: #000000;
+}
+
+#lets-talk .talk-right h1 span {
+  color: #00798b;
+}
+
+#lets-talk .talk-right p {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: justify;
+  color: #000000;
+}
+
+#lets-talk .talk-right button {
+  width: 200px;
+  height: 60px;
+  background: #ffcc48;
+  border-radius: 30px;
+  border: 0px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: white;
+}
+
+#sponsor {
+  margin-bottom: 100px;
+}
+
+#sponsor img {
+  width: 150px;
+}
+
+#join-community {
+  font-family: poppins;
+  padding: 0;
+  margin: 0;
+  padding-top: 100px;
+  background-color: #404258;
+}
+
+#join-community .about-left h1 {
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 60px;
+  color: WHITE;
+}
+
+#join-community .about-left h1 span {
+  color: #00798b;
+}
+
+#join-community .about-right button {
+  width: 200px;
+  height: 60px;
+  background: #ffcc48;
+  border-radius: 30px;
+  border: 0px;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 30px;
+  text-align: center;
+  color: white;
+}
+
+#footer {
+  background: #404258;
+  padding-top: 60px;
+}
+
+#footer .logo-sandbox {
+  width: 150px;
+}
+
+#footer hr {
+  border: 1px solid;
+  color: white;
+  opacity: 0.1;
+  margin-bottom: 80px;
+}
+
+#footer .akhir-p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 14px;
+  letter-spacing: 0.07em;
+  color: #ffffff;
+}
+
+#footer .footer-h5 {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  color: #ffffff;
+  margin-bottom: 24px;
+}
+
+#footer .footer-p {
+  margin-top: 8px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 150%;
+  color: #ffffff;
+}
+
+#footer .link-sosmed {
+  text-decoration: none;
+}
+
+#footer .link-sosmed .kontak-p {
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+#footer .link-a {
+  text-decoration: none;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 12px;
+  color: #ffffff;
+}
+
+#footer .link-a:hover {
+  color: #7f9efc;
+}
+
+#footer button {
+  background: #ffcc48;
+  border: 0px;
+  font-style: normal;
+  text-align: center;
+  color: white;
+}
+/*# sourceMappingURL=index.css.map */
