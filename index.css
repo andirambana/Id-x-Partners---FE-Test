@@ -154,12 +154,12 @@
   padding-top: 100px;
 }
 
-#analyze-now .about-left h5 {
+#analyze-now .analyze-left h5 {
   color: gray;
   font-size: 16px;
 }
 
-#analyze-now .about-left h1 {
+#analyze-now .analyze-left h1 {
   font-style: normal;
   font-weight: 600;
   font-size: 40px;
@@ -167,7 +167,7 @@
   color: #000000;
 }
 
-#analyze-now .about-left p {
+#analyze-now .analyze-left p {
   font-style: normal;
   font-weight: 400;
   font-size: 20px;
@@ -176,12 +176,12 @@
   color: #000000;
 }
 
-#analyze-now .about-left input {
+#analyze-now .analyze-left input {
   width: 100px;
   height: 50px;
 }
 
-#analyze-now .about-left button {
+#analyze-now .analyze-left button {
   width: 100px;
   height: 50px;
   background: #ffcc48;
@@ -195,7 +195,7 @@
   color: white;
 }
 
-#analyze-now .about-right {
+#analyze-now .analyze-right {
   height: 500px;
 }
 
@@ -271,19 +271,19 @@
   background-color: #404258;
 }
 
-#join-community .about-left h1 {
+#join-community .community-left h1 {
   font-style: normal;
-  font-weight: 600;
+  font-weight: 550;
   font-size: 40px;
   line-height: 60px;
   color: WHITE;
 }
 
-#join-community .about-left h1 span {
+#join-community .community-left h1 span {
   color: #00798b;
 }
 
-#join-community .about-right button {
+#join-community .community-right button {
   width: 200px;
   height: 60px;
   background: #ffcc48;
